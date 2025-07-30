@@ -1,1 +1,4 @@
-
+# Note
+#  - KITTI dataset are linked in this [link](https://drive.google.com/drive/folders/1TvE2wIfosFu0JIW8gSWR4v7rNziBpk1F?usp=drive_link) 
+#  - Download the .zip file. 
+#  - Unzip it in the src folder to use it.
